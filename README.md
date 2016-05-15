@@ -15,6 +15,6 @@ Arch :
 	Use two timer to update graphicsitems (drums) and one to update score.
 	Use keyPressEvent to grab J or K .
 
-
+Screenshot is ./Screenshot from........... .png
 
 enjoyit.
